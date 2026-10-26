@@ -1,0 +1,7 @@
+# Local and personal files: never include these in a public release.
+AGENTS.md
+PROJECT_MEMORY.md
+
+# This one-off migration helper contains machine-specific paths and source data.
+scripts/prepare-card-structure-sync.mjs
+
