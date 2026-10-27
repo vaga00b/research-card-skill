@@ -1,6 +1,6 @@
 # Research Card Skill
 
-Ever remember a useful idea from an article, then lose track of where it came from? Research Card turns articles into evidence-linked cards you can search and check later in your local library. It supports Chinese and English, and keeps each claim connected to its source section and evidence.
+Whether you read an article closely or skim it for one idea worth keeping, you may want to find that idea and its source again later. Research Card turns webpages and documents into searchable, evidence-linked cards in a local library, so you can return to the original context when you need it. It supports Chinese and English.
 
 ## What it does
 
@@ -11,6 +11,12 @@ Ever remember a useful idea from an article, then lose track of where it came fr
 - Keeps cards on your computer. This package does not upload them to a Research Card website or call a separate model API.
 
 Codex reads and summarizes the sources. Access to online material depends on the platform and tools available in your session. Once installed, the local library viewer works offline.
+
+## Who it's for
+
+- Students and researchers organizing source material for study or research.
+- Writers collecting claims, examples, and quotations to check before using them.
+- Readers comparing sources or returning to the evidence behind an idea.
 
 ## Install
 
@@ -66,7 +72,7 @@ This project uses the PolyForm Noncommercial License 1.0.0 ([LICENSE](LICENSE)).
 
 # Research Card Skill（中文）
 
-读完一篇文章，记住了一个观点，过几天却想不起出处和上下文？Research Card 会把文章整理成带证据的研究卡片，方便你在本地资料库里找回观点、回到原文核对。支持中英文，观点、例子、原文证据和后续使用说明都对应在一起。
+无论是逐章细读，还是粗读时遇到一个值得留下的观点，你可能都想过几天再找回来，顺着出处看看原文。Research Card 会把网页和文档整理成带证据、可检索的卡片，保存在本地资料库里，方便你回到原文核对上下文。支持中英文。
 
 ## 功能
 
@@ -77,6 +83,12 @@ This project uses the PolyForm Noncommercial License 1.0.0 ([LICENSE](LICENSE)).
 - 卡片留在你的电脑上。本包不会把它们上传到 Research Card 网站，也不会调用独立的模型 API。
 
 Skill 由 Codex 阅读和总结来源。能否访问在线材料，取决于当前会话使用的平台和工具；卡片资料库安装后可在本机离线浏览。
+
+## 适合谁
+
+- 整理课程阅读、论文和研究资料的学生与研究者。
+- 收集观点、案例和引文，并希望在写作前核对出处的写作者。
+- 需要比较不同来源，或日后回到原文查证观点的读者。
 
 ## 安装
 
