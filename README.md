@@ -1,6 +1,6 @@
 # Research Card Skill
 
-Whether you read an article closely or skim it for one idea worth keeping, you may want to find that idea and its source again later. Research Card turns webpages and documents into searchable, evidence-linked cards in a local library, so you can return to the original context when you need it. It supports Chinese and English.
+Exploring a topic often means skimming several articles first, then reading a few closely. When it's time to write, compare sources, or check a claim, finding the exact passage again can take longer than expected. Research Card turns the webpages and documents you choose into searchable cards that keep each claim beside its evidence and source. Save notes as you research, then return to the original context from your local library.
 
 ## What it does
 
@@ -14,9 +14,9 @@ Codex reads and summarizes the sources. Access to online material depends on the
 
 ## Who it's for
 
-- Students and researchers organizing source material for study or research.
-- Writers collecting claims, examples, and quotations to check before using them.
-- Readers comparing sources or returning to the evidence behind an idea.
+- Students, researchers, and analysts collecting material around a question or topic.
+- Writers gathering claims, examples, and quotations they can check before publication.
+- Frequent readers who want searchable notes for comparing sources or revisiting an idea later.
 
 ## Install
 
@@ -72,7 +72,7 @@ This project uses the PolyForm Noncommercial License 1.0.0 ([LICENSE](LICENSE)).
 
 # Research Card Skill（中文）
 
-无论是逐章细读，还是粗读时遇到一个值得留下的观点，你可能都想过几天再找回来，顺着出处看看原文。Research Card 会把网页和文档整理成带证据、可检索的卡片，保存在本地资料库里，方便你回到原文核对上下文。支持中英文。
+研究一个选题，常常要先粗读几篇文章，再挑几篇仔细看。等到写作、比较来源或核对某个观点时，往往还得重新翻文章找原句和依据。Research Card 把你选中的网页和文档整理成可检索的卡片，让观点、证据和出处放在一起。阅读时随手积累，之后从本地资料库找回记录，也能回到原文核对上下文。
 
 ## 功能
 
@@ -86,9 +86,9 @@ Skill 由 Codex 阅读和总结来源。能否访问在线材料，取决于当�
 
 ## 适合谁
 
-- 整理课程阅读、论文和研究资料的学生与研究者。
-- 收集观点、案例和引文，并希望在写作前核对出处的写作者。
-- 需要比较不同来源，或日后回到原文查证观点的读者。
+- 围绕一个问题整理论文、报告和不同来源的学生、研究者与分析人员。
+- 写文章前需要收集并核对观点、数据、案例和引文的写作者。
+- 常读专业文章、希望留下可搜索笔记并在之后比较或回查的读者。
 
 ## 安装
 
