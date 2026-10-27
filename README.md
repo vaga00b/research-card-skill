@@ -1,6 +1,6 @@
 # Research Card Skill
 
-**Turn articles into research cards you can check, save, and find again.** Each card links claims to the article's sections and evidence. The Skill supports Chinese and English, with your library stored on your computer.
+Ever remember a useful idea from an article, then lose track of where it came from? Research Card turns articles into evidence-linked cards you can search and check later in your local library. It supports Chinese and English, and keeps each claim connected to its source section and evidence.
 
 ## What it does
 
@@ -66,7 +66,7 @@ This project uses the PolyForm Noncommercial License 1.0.0 ([LICENSE](LICENSE)).
 
 # Research Card Skill（中文）
 
-把文章整理成有出处、方便回查的研究卡片，也能从个人离线卡片库里找回保存过的观点。支持中英文卡片，观点、例子、原文证据和后续使用说明都对应在一起。
+读完一篇文章，记住了一个观点，过几天却想不起出处和上下文？Research Card 会把文章整理成带证据的研究卡片，方便你在本地资料库里找回观点、回到原文核对。支持中英文，观点、例子、原文证据和后续使用说明都对应在一起。
 
 ## 功能
 
